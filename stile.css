@@ -1,0 +1,74 @@
+
+
+body{
+    background-color: grey;
+    margin: auto;
+  
+}
+
+
+#contenedor{
+    background-color: white;
+    width: 900px;
+    height: 900px;
+    margin: auto;
+    
+}
+
+
+#parrafo{
+
+    text-align: center;
+    background-color: rgb(65, 63, 63);
+    width: 20%;
+    height: 100%;
+    float: left;
+    font-family: sans-serif;
+    
+}
+
+#info1 {
+    background-color: red;
+    width: 80%;
+    height: 25%;
+    float: right;
+    font-family: sans-serif;
+    
+}
+
+#info2 {
+    background-color: orange;
+    width: 80%;
+    height: 25%;
+    float: right;
+    font-family: sans-serif;
+    
+    
+}
+
+#info3 {
+    background-color: yellow;
+    width: 80%;
+    height: 25%;
+    float: right;
+    font-family: sans-serif;
+    
+}
+
+#info4 {
+    background-color: green;
+    width: 80%;
+    height: 25%;
+    float: right;
+    font-family: sans-serif;
+    
+}
+
+
+.inicio {
+    background-color: red;
+}
+
+.inicio:hover{
+    background-color: blue;
+}
